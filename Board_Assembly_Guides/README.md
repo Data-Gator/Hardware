@@ -1,4 +1,6 @@
-# Board Fabrication and Assembly Guide
+# Board Fabrication and Assembly Guide for Data Gators
+
+All the information below is meant to guide _anybody_ through the process and various methods available for making your own Data Gator board. 
 
 #### Table of Contents
 
@@ -7,7 +9,7 @@
 | [Fabrication and Assembly Overview](#fabrication-and-assembly-overview)| Enumerates the basic steps for having a board manufactured and then assembling it. |
 | [Terms and Definitions](#terms-and-definitions) | Terms used in these guides to describe the process of producing fully functional Data Gators. |
 
-#### Fabrication and Assembly Overview
+#### Fabrication and Assembly
 
 1. _**optional** modify schematics and designs_
 2. Acquire PCBs and order components.
