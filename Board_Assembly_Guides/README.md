@@ -45,7 +45,11 @@ In most cases to fabricate the board, you will upload the board as a Gerber file
     
     ![jlcpcb product details](../Board_Assembly_Guides/images/jlcpcb_product_details.png)
 
-4. Choose add-on services.
+4. Choose add-on services. _**Note:**_ the selected options are defaults from the site and may need to be changed based on your equipment and usage and are not meant to be copied.
+
+    * if you have a [stencil printer](https://www.amazon.com/s?k=stencil+printer+pcb&i=tools&crid=286I7CTV6K4RE&sprefix=stencil+printer+pcb%2Ctools%2C154&ref=nb_sb_noss), you will likely want to select the framework option for the stencil as this means you will receive a frame holding a tensioned stencil.
+
+    * assembly requires additional steps, so there will be an additional guide written for this.
 
     ![jlcpcb stencil options](../Board_Assembly_Guides/images/jlcpcb_stencil_add-on.png)
 
