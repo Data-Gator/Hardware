@@ -15,16 +15,18 @@
 5. Connect separate boards and make cables.
 6. _**optional** apply antenna mod for external antenna_
 
-## How to Acquire Data Gator PCBs
+# How to Acquire Data Gator PCBs
 
 PCB fabrication equipment is expensive so it follow the steps below to order PCB fabrication from a 3rd party vendor unless you have your own stuff.
 
-#### Ordering from [JLCPCB](https://jlcpcb.com/) and [PCBWay](https://www.pcbway.com/) and [Osh Park](https://oshpark.com/)
+## Ordering from [JLCPCB](https://jlcpcb.com/) and [PCBWay](https://www.pcbway.com/) and [Osh Park](https://oshpark.com/)
 
 All three companies provide similar services including:
 
 1. Online automated quotes based on: board quantity, size, and materials.
 2. Add-on services: PCB assembly, stencil fabrication, etc.
+
+#### Vendor Experience
 
 These options allow a lot of flexibility, an accommodate all the requirements of getting the Data Gator boards made. Experience with each company might vary slightly. For example, I experienced:
 
@@ -33,6 +35,8 @@ These options allow a lot of flexibility, an accommodate all the requirements of
 * PCBWay provided good assembly and board fabrication, slightly lower mask quality than the other two and a fair amount of engineer interaction for assembly process (a good thing for working through issues).
 
 Osh Park has the advantage of being based in the USA and offers various tiers of production speed, which may appeal if working on a government project.
+
+### JLCPCB Steps (Can use for the others as well!)
 
 In most cases to fabricate the board, you will upload the board as a Gerber file through the link on the manufacturer's website using the links above. Data Gator PCB Gerber files can be found by navigating to [hardware revisions](../Hardware_Revisions/README.md).
 
