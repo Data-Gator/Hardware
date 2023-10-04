@@ -41,7 +41,8 @@ Read on for instructions for how to assemble an Data Gator board and example pic
 
 4. Solder analog and I2C plugs.
 
-> [!note] Removing Alignment Pin
+> [!note] 
+> **Removing Alignment Pin**
 > The plugs may come with an alignment pin on the bottom of the plug as can be seen in the picture below. Since the PCB has no alignment hole, this pin must be removed using a pair of flush cutters before soldering.
 > ![[three_pin.jpg]]
 
