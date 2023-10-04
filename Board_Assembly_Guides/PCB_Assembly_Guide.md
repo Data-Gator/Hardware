@@ -27,26 +27,26 @@ Read on for instructions for how to assemble an Data Gator board and example pic
 
 1. Solder Firebeetle ESP32 micro-controller (uC) to PCB.
 
-	![[pcb_w_firebeetle.jpg]]
+	![pcb with firebeetle](pcb_w_firebeetle.jpg)
 
 > [!note] Tips for Alignment
 > It can be difficult to align the micro-controller board with the PCB pads for soldering and keep them aligned. To avoid misalignment, use the pin headers included with the micro-controller to align holes by placing the micro-controller on the PCB, aligning with holes, then placing the pin header through the holes. You can then solder the first and last hole of a side to keep the board in place, remove the pin header, and finish soldering both sides.
 
 2. Solder switch to PCB. 
-	![[soldered_switch.jpg]]]
+	![soldered switch](soldered_switch.jpg)
 
 3. Solder Fuel Guage to PCB.
 
-	![[soldered_switch.jpg]]
+	![soldered switch](soldered_switch.jpg)
 
 4. Solder analog and I2C plugs.
 
 > [!note] 
 > **Removing Alignment Pin**
 > The plugs may come with an alignment pin on the bottom of the plug as can be seen in the picture below. Since the PCB has no alignment hole, this pin must be removed using a pair of flush cutters before soldering.
-> ![[three_pin.jpg]]
+> ![three pin](three_pin.jpg)
 
-	![[pcb_populated.jpg]]
+![pcb populated](images/pcb_populated.jpg)
 
 5. Attach Solar Manager with M3 bolts.
 6. Make battery/charging cable using instructions from [[crimping guide]].
