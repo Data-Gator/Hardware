@@ -51,3 +51,4 @@ Read on for instructions for how to assemble an Data Gator board and example pic
 
 5. Attach Solar Manager with M3 bolts.
 6. Make battery/charging cable using instructions from [[crimping guide]].
+7. _Optional: perform antenna mod following directions [in the antenna modification guide](https://community.home-assistant.io/t/how-to-add-an-external-antenna-to-an-esp-board/131601)_
