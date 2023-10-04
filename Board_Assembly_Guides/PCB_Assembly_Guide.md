@@ -25,6 +25,9 @@ Read on for instructions for how to assemble an Data Gator board and example pic
 
 ## Instructions
 
+##### Initial PCB + SMD Components
+![pcb unpopulated](images/pcb_unpopulated.jpg)
+
 1. Solder Firebeetle ESP32 micro-controller (uC) to PCB.
 
 	![pcb with firebeetle](images/pcb_w_firebeetle.jpg)
