@@ -29,7 +29,8 @@ Read on for instructions for how to assemble an Data Gator board and example pic
 
 	![pcb with firebeetle](images/pcb_w_firebeetle.jpg)
 
-> [!note] Tips for Alignment
+> [!note] 
+> **Tips for Alignment**
 > It can be difficult to align the micro-controller board with the PCB pads for soldering and keep them aligned. To avoid misalignment, use the pin headers included with the micro-controller to align holes by placing the micro-controller on the PCB, aligning with holes, then placing the pin header through the holes. You can then solder the first and last hole of a side to keep the board in place, remove the pin header, and finish soldering both sides.
 
 2. Solder switch to PCB. 
