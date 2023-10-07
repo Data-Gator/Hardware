@@ -5,7 +5,7 @@ Read on for instructions for how to assemble an Data Gator board and example pic
 1. Should have DG PCBs. Instructions for getting boards in [[PCB_Fabrication_Guide|PCB Fabrication Guide]].
 2. All surface mount components should be installed.
 3. All through-hole components from the [[Bill of Materials]].
-4. Have all tools or alternatives listed in the [[PCB_Assembly_Guide#Equipment]]
+4. Have all tools or alternatives listed in the [[PCB_Assembly_Guide#Equipment|equipment list]].
 
 ## Equipment
 
