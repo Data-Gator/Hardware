@@ -1,5 +1,5 @@
 # Through-Hole Guide
-![[Hardware/images/dg_board_tour.png]]
+![board tour](Hardware/images/dg_board_tour.png)
 
 Above is a map of the various components on the Data Gator. The following are through hole components that generally must be soldered:
 
