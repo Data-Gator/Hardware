@@ -147,7 +147,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../Board_Fabrication_Files/")
+			(outputdirectory "../Board_Fabrication_Files/Drill/")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
