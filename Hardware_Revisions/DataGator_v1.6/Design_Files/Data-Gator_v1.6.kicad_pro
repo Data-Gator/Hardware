@@ -624,7 +624,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../Board_Fabrication_Files/Drill/",
+      "plot": "../Board_Fabrication_Files/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
