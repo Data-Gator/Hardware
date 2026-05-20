@@ -624,7 +624,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../Board_Fabrication_Files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
