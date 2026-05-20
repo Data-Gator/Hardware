@@ -1,0 +1,13 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "533750210") (type "KiCad") (uri "${KIPRJMOD}/lib/533750210/533750210.kicad_sym") (options "") (descr ""))
+	(lib (name "533750310") (type "KiCad") (uri "${KIPRJMOD}/lib/533750310/533750310.kicad_sym") (options "") (descr ""))
+	(lib (name "533750410") (type "KiCad") (uri "${KIPRJMOD}/lib/533750410/533750410.kicad_sym") (options "") (descr ""))
+	(lib (name "ADS1015IDGST") (type "KiCad") (uri "${KIPRJMOD}/lib/ADS1015IDGST/ADS1015IDGST.kicad_sym") (options "") (descr ""))
+	(lib (name "DFR0654") (type "KiCad") (uri "${KIPRJMOD}/lib/DFR0654/DFR0654.kicad_sym") (options "") (descr ""))
+	(lib (name "DS04-254-2-03BK-SMT") (type "KiCad") (uri "${KIPRJMOD}/lib/DS04_254_2_03BK_SMT/DS04-254-2-03BK-SMT.kicad_sym") (options "") (descr ""))
+	(lib (name "MEM2051-00-195-00-A_REVD1") (type "KiCad") (uri "${KIPRJMOD}/lib/MEM2051-00-195-00-A_REVD1/MEM2051-00-195-00-A_REVD1.kicad_sym") (options "") (descr ""))
+	(lib (name "MSS-102568-14A-90-D") (type "KiCad") (uri "${KIPRJMOD}/lib/MSS-102568-14A-90-D/MSS-102568-14A-90-D.kicad_sym") (options "") (descr ""))
+	(lib (name "TPL5000DGST") (type "KiCad") (uri "${KIPRJMOD}/lib/TPL5000DGST/TPL5000DGST.kicad_sym") (options "") (descr ""))
+	(lib (name "AP2171WG-7") (type "KiCad") (uri "${KIPRJMOD}/lib/ul_AP2171WG-7/KiCADv6/2026-01-05_18-38-45.kicad_sym") (options "") (descr ""))
+)

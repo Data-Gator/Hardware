@@ -1,0 +1,595 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "44e55851-8770-4025-99a9-b5e67c76db1c")
+	(paper "USLetter")
+	(title_block
+		(title "Data Gator")
+		(date "2026-05-20")
+		(rev "1.6")
+		(company "University of Idaho")
+		(comment 1 "Authors: Garrett Wells, Kevin Wing")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 190.5 102.87) (xy 195.58 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00963326-5c1e-4022-9b4b-8ad71f82549a")
+	)
+	(wire
+		(pts
+			(xy 91.44 62.23) (xy 158.75 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b3b5d34-974f-4fc0-bab6-7602c5e500e3")
+	)
+	(wire
+		(pts
+			(xy 190.5 97.79) (xy 200.66 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "116d2917-a61e-4c05-9321-a885b6546de9")
+	)
+	(wire
+		(pts
+			(xy 190.5 139.7) (xy 195.58 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48f00189-f9fb-4bbc-a2a2-9e6fe0fa55e0")
+	)
+	(wire
+		(pts
+			(xy 91.44 67.31) (xy 158.75 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62eae3e3-e536-49ed-b706-884447e94d8b")
+	)
+	(wire
+		(pts
+			(xy 91.44 105.41) (xy 158.75 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "673bf5ae-f2d2-47c0-a9cc-33998c15e3e0")
+	)
+	(wire
+		(pts
+			(xy 198.12 142.24) (xy 198.12 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b7dfdb7-10e5-4b98-969a-8d264e2da100")
+	)
+	(wire
+		(pts
+			(xy 195.58 139.7) (xy 195.58 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7efc448d-8091-42e9-b56e-a62f98e161d3")
+	)
+	(wire
+		(pts
+			(xy 200.66 144.78) (xy 200.66 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9163ecda-54dc-4025-ba9c-e92d667ef890")
+	)
+	(wire
+		(pts
+			(xy 91.44 73.66) (xy 158.75 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97159936-08e5-4f40-af56-3a86bf3fb781")
+	)
+	(wire
+		(pts
+			(xy 190.5 100.33) (xy 198.12 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97e2446a-6fe4-4b62-b668-ea9769fc66d5")
+	)
+	(wire
+		(pts
+			(xy 91.44 113.03) (xy 158.75 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98304151-169f-42f9-81e2-5d69d2f21b24")
+	)
+	(wire
+		(pts
+			(xy 91.44 107.95) (xy 158.75 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b8f6b43-6093-4838-a010-fec5b7e17662")
+	)
+	(wire
+		(pts
+			(xy 91.44 69.85) (xy 158.75 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b58c1ffc-53f0-4c5d-8860-98ea2bd60649")
+	)
+	(wire
+		(pts
+			(xy 190.5 144.78) (xy 200.66 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4f9f9b2-2e84-4f5c-91fb-68581be77f5a")
+	)
+	(wire
+		(pts
+			(xy 91.44 64.77) (xy 158.75 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e674b00c-5e74-489f-b2e2-6008b1f8b291")
+	)
+	(wire
+		(pts
+			(xy 190.5 142.24) (xy 198.12 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eed65eb0-8728-42cc-9000-0f35ce7b95db")
+	)
+	(sheet
+		(at 158.75 52.07)
+		(size 31.75 64.77)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "46889be1-c348-4738-a05f-471e13d883cb")
+		(property "Sheetname" "MCU"
+			(at 158.75 51.3584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 158.75 117.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SD_PWR_EN" output
+			(at 158.75 73.66 180)
+			(uuid "16aeb98f-6786-4b34-aec4-5be6655850d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SEL_1" input
+			(at 190.5 97.79 0)
+			(uuid "3d035a23-8b75-41be-a2fd-288df3a545f8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SEL_2" input
+			(at 190.5 100.33 0)
+			(uuid "da9caefa-0b65-4bc1-9e44-40cbc381b4a1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SEL_3" input
+			(at 190.5 102.87 0)
+			(uuid "07ecc40b-b2ec-4840-adfd-60df61d50286")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PERF_PWR_EN" output
+			(at 158.75 113.03 180)
+			(uuid "dc3cddaa-fcf9-40a8-9bcb-bdff3c8a1538")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCL" bidirectional
+			(at 158.75 105.41 180)
+			(uuid "ab1e1159-316e-43b9-82f8-c46a06269923")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 158.75 107.95 180)
+			(uuid "02ea4b4a-6cec-479a-895c-604d819a421e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CS" output
+			(at 158.75 62.23 180)
+			(uuid "171a6b2b-17d1-41af-ace4-945c7ad8ac4d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MISO" input
+			(at 158.75 64.77 180)
+			(uuid "03b5f1f6-d2b4-4f68-9343-99df69a88945")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOSI" output
+			(at 158.75 67.31 180)
+			(uuid "e51f8469-fab6-4f3c-988c-01631e4e8f5a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" output
+			(at 158.75 69.85 180)
+			(uuid "8c406366-c854-4814-87c0-0166ce03fa2a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Data-Gator_v1.6"
+				(path "/44e55851-8770-4025-99a9-b5e67c76db1c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 58.42)
+		(size 30.48 31.75)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "75b4529c-a16f-42b5-aa97-fb91a7cbc206")
+		(property "Sheetname" "uSD"
+			(at 60.96 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "uSD.kicad_sch"
+			(at 60.96 90.7546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CS" input
+			(at 91.44 62.23 0)
+			(uuid "0161ad7a-ba3e-4365-9bf2-5cabb187bbf3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MISO" output
+			(at 91.44 64.77 0)
+			(uuid "59fa7a12-6c84-4a54-8d14-72577e932402")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSI" input
+			(at 91.44 67.31 0)
+			(uuid "a25aab07-05fd-4e48-8d38-4cac91c27918")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCK" input
+			(at 91.44 69.85 0)
+			(uuid "857caaa6-4842-4a3c-b0a3-4d4a3b7b03e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SD_PWR_EN" input
+			(at 91.44 73.66 0)
+			(uuid "08411b8d-4b62-4766-8f32-b66fcc4308ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Data-Gator_v1.6"
+				(path "/44e55851-8770-4025-99a9-b5e67c76db1c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 96.52)
+		(size 30.48 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8113e726-0cac-417d-9257-31cc4e022731")
+		(property "Sheetname" "Sensors"
+			(at 60.96 95.8084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensors.kicad_sch"
+			(at 60.96 132.6646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SCL" bidirectional
+			(at 91.44 105.41 0)
+			(uuid "bc7096df-e4a0-4aa8-bba7-fb2fa74e0553")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 91.44 107.95 0)
+			(uuid "88893d55-f14d-41e6-8447-7a0fe6f3acda")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PERF_PWR_EN" input
+			(at 91.44 113.03 0)
+			(uuid "ae74f6c9-c57e-4c69-88b6-cc3114c1b63f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Data-Gator_v1.6"
+				(path "/44e55851-8770-4025-99a9-b5e67c76db1c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 166.37 137.16)
+		(size 24.13 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ca03d961-eb9e-445b-a80a-c4e2703a2c78")
+		(property "Sheetname" "Selector"
+			(at 166.37 136.4484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "selector.kicad_sch"
+			(at 166.37 155.5246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SEL_1" output
+			(at 190.5 144.78 0)
+			(uuid "4c456089-1c51-4ce6-8e26-6f75cd8c3f54")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SEL_2" output
+			(at 190.5 142.24 0)
+			(uuid "d2f9ba44-1bf2-4c8d-8ead-3f9bfdba0b49")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SEL_3" output
+			(at 190.5 139.7 0)
+			(uuid "4035926a-0fcb-4a70-964e-3d385ffd06b5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Data-Gator_v1.6"
+				(path "/44e55851-8770-4025-99a9-b5e67c76db1c"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
